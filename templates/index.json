@@ -241,8 +241,8 @@
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "About Us",
+            "icon": "star",
             "row_content": "",
             "page": "",
             "liquid": "",
@@ -253,8 +253,8 @@
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Follow Us",
+            "icon": "map_pin",
             "row_content": "",
             "page": "",
             "liquid": "",
@@ -265,8 +265,20 @@
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "FAQs",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": "",
+            "liquid": "",
+            "rwk_button": "",
+            "rwk_link": ""
+          }
+        },
+        "7feb275e-134e-4a83-87d8-02c29998c554": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Returns",
+            "icon": "box",
             "row_content": "",
             "page": "",
             "liquid": "",
@@ -279,7 +291,8 @@
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-0",
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-1",
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-2",
-        "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-3"
+        "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-3",
+        "7feb275e-134e-4a83-87d8-02c29998c554"
       ],
       "settings": {
         "caption": "",
