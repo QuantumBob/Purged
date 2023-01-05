@@ -1,5 +1,71 @@
 {
   "sections": {
+    "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-0": {
+          "type": "text",
+          "settings": {
+            "text": "New to Store",
+            "text_style": "body"
+          }
+        },
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-6": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-0",
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-1",
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-2",
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-3",
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-4",
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-5",
+        "template--17421924794685__db64dcd4-6f7e-4778-b63c-ffd142f9dbe3-16729231071a411fbd-6"
+      ],
+      "settings": {
+        "product": "thin-velvet-dress",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -274,6 +340,7 @@
     }
   },
   "order": [
+    "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3",
     "image-with-text",
     "image-with-text-2",
     "featured_collection",
