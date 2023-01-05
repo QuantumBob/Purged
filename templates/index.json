@@ -243,7 +243,7 @@
           "settings": {
             "heading": "About Us",
             "icon": "star",
-            "row_content": "",
+            "row_content": "<p>Purged Ltd is a UK based online store, established in Hull, we provide affordable, good quality, goth and alternative apparel. If you are a manufacturer and would like your items on our store, please email us at purgedltd@gmail.com<\/p>",
             "page": "",
             "liquid": "",
             "rwk_button": "",
@@ -255,7 +255,7 @@
           "settings": {
             "heading": "Follow Us",
             "icon": "map_pin",
-            "row_content": "",
+            "row_content": "<p>Www.Facebook.co.uk\/purged<\/p><p>Www.instagram.com\/purged<\/p>",
             "page": "",
             "liquid": "",
             "rwk_button": "",
@@ -267,7 +267,7 @@
           "settings": {
             "heading": "FAQs",
             "icon": "question_mark",
-            "row_content": "",
+            "row_content": "<p>Returns can be made within 30 days of purchase, proof of purchase with reason for returns must be emailed to purgedltd@gmail.com<\/p>",
             "page": "",
             "liquid": "",
             "rwk_button": "",
@@ -280,7 +280,7 @@
             "heading": "Returns",
             "icon": "box",
             "row_content": "",
-            "page": "",
+            "page": "returns-policy",
             "liquid": "",
             "rwk_button": "",
             "rwk_link": ""
