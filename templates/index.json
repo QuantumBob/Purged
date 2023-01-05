@@ -152,77 +152,6 @@
         "padding_bottom": 0
       }
     },
-    "collapsible-content": {
-      "type": "collapsible-content",
-      "blocks": {
-        "row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Contact Us",
-            "icon": "chat_bubble",
-            "row_content": "<p>Purgedltd@gmail.com<\/p>",
-            "page": "contact"
-          }
-        },
-        "row-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "About Us",
-            "icon": "star",
-            "row_content": "<p>Purged Ltd is a UK based online store, established in Hull, we provide affordable, good quality, goth and alternative apparel. If you are a manufacturer and would like your items on our store, please email us at purgedltd@gmail.com<\/p>",
-            "page": ""
-          }
-        },
-        "row-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Follow Us On Social Media",
-            "icon": "fire",
-            "row_content": "<p>Www.Facebook.co.uk\/purged<\/p><p>Www.instagram.com\/purged<\/p>",
-            "page": ""
-          }
-        },
-        "row-4": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "FAQ",
-            "icon": "question_mark",
-            "row_content": "<p>Returns can be made within 30 days of purchase, proof of purchase with reason for returns must be emailed to purgedltd@gmail.com<\/p>",
-            "page": ""
-          }
-        },
-        "edb2afc4-67ea-4655-9f48-8ebfa0677e03": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Returns",
-            "icon": "box",
-            "row_content": "",
-            "page": "returns-policy"
-          }
-        }
-      },
-      "block_order": [
-        "row-2",
-        "row-1",
-        "row-3",
-        "row-4",
-        "edb2afc4-67ea-4655-9f48-8ebfa0677e03"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "More",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "layout": "row",
-        "color_scheme": "background-2",
-        "container_color_scheme": "accent-1",
-        "open_first_collapsible_row": false,
-        "image_ratio": "large",
-        "desktop_layout": "image_first",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "6300daf5-d930-4e0e-97c7-38b955d66261": {
       "type": "rwk-collapsible-content",
       "blocks": {
@@ -349,7 +278,6 @@
     "image-with-text-2",
     "featured_collection",
     "image-with-text-1",
-    "collapsible-content",
     "6300daf5-d930-4e0e-97c7-38b955d66261",
     "newsletter"
   ]
