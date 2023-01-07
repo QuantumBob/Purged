@@ -82,6 +82,7 @@
       "blocks": {
         "row-1": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "DETAILS",
             "icon": "lightning_bolt",
