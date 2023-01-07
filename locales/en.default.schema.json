@@ -1311,11 +1311,11 @@
               "label": "Use outline button style"
             },
             "button_label_3": {
-              "label": "Second button label",
+              "label": "Third button label",
               "info": "Leave the label blank to hide the button."
             },
             "button_link_3": {
-              "label": "Second button link"
+              "label": "Third button link"
             },
             "button_style_secondary_3": {
               "label": "Use outline button style"
