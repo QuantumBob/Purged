@@ -1160,7 +1160,7 @@
       }
     },
     "rwk-image-banner": {
-      "name": "Image banner",
+      "name": "RWK Image banner",
       "settings": {
         "image": {
           "label": "First image"
