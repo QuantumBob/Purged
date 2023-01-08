@@ -154,6 +154,20 @@
               "menu": "footer"
             }
           },
+          "4c0c1bcb-d574-4bb8-899e-e3155d602281": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Refund Policy",
+              "menu": "footer"
+            }
+          },
+          "876cbdef-ee56-4c37-b06f-307543900c25": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Shipping",
+              "menu": "footer"
+            }
+          },
           "image": {
             "type": "image",
             "disabled": true,
@@ -172,6 +186,8 @@
         },
         "block_order": [
           "link-list",
+          "4c0c1bcb-d574-4bb8-899e-e3155d602281",
+          "876cbdef-ee56-4c37-b06f-307543900c25",
           "image",
           "text"
         ],
