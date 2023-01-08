@@ -1,0 +1,211 @@
+{
+  "sections": {
+    "image-banner": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "e3f35acc-72a0-4814-8dc9-f09d410ea090": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Womens",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "Mens",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "e3f35acc-72a0-4814-8dc9-f09d410ea090"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/stars-background.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "af011418-7ea6-4623-ae8c-df68e5a90169": {
+      "type": "rwk-image-banner",
+      "blocks": {
+        "template--17421924729149__af011418-7ea6-4623-ae8c-df68e5a90169-1673100113e4a99193-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--17421924729149__af011418-7ea6-4623-ae8c-df68e5a90169-1673100113e4a99193-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--17421924729149__af011418-7ea6-4623-ae8c-df68e5a90169-1673100113e4a99193-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Womens",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "Mens",
+            "button_link_2": "",
+            "button_style_secondary_2": true,
+            "button_label_3": "Accessories",
+            "button_link_3": "",
+            "button_style_secondary_3": true
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924729149__af011418-7ea6-4623-ae8c-df68e5a90169-1673100113e4a99193-0",
+        "template--17421924729149__af011418-7ea6-4623-ae8c-df68e5a90169-1673100113e4a99193-1",
+        "template--17421924729149__af011418-7ea6-4623-ae8c-df68e5a90169-1673100113e4a99193-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/stars-background.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "IMAGE WITH TEXT",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair an image with text to introduce a blog post that helps your customers learn more about your products.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUTTON LABEL",
+            "button_link": ""
+          }
+        },
+        "3bc7821b-b23b-4cad-8c13-b3c4088261b1": {
+          "type": "caption",
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button",
+        "3bc7821b-b23b-4cad-8c13-b3c4088261b1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe To Emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "image-banner",
+    "af011418-7ea6-4623-ae8c-df68e5a90169",
+    "banner",
+    "product-grid",
+    "image-with-text",
+    "newsletter"
+  ]
+}
