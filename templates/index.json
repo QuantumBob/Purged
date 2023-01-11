@@ -231,8 +231,8 @@
             "row_content": "<p>You can get in touch with our customer service <a href=\"\/pages\/contact-1\" title=\"Contact\">here<\/a><\/p>",
             "page": "contact-1",
             "liquid": "",
-            "rwk_button": "contact@purgedltd.co.uk",
-            "rwk_link": "shopify:\/\/pages\/contact-1"
+            "rwk_button": "",
+            "rwk_link": ""
           }
         },
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-1": {
