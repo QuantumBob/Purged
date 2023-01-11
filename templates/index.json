@@ -261,6 +261,7 @@
         },
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-3": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "FAQs",
             "icon": "question_mark",
