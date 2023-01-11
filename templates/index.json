@@ -277,7 +277,7 @@
           "settings": {
             "heading": "Returns",
             "icon": "box",
-            "row_content": "",
+            "row_content": "<p>We have a 30-day return policy,<\/p><p>Please read the full policy <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">here<\/a><\/p>",
             "page": "",
             "liquid": "",
             "rwk_button": "Returns Policy",
