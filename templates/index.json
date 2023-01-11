@@ -228,11 +228,11 @@
           "settings": {
             "heading": "Contact",
             "icon": "chat_bubble",
-            "row_content": "<p>Purgedltd@gmail.com<\/p>",
+            "row_content": "",
             "page": "contact",
-            "liquid": "Test",
-            "rwk_button": "Test",
-            "rwk_link": "shopify:\/\/pages\/contact"
+            "liquid": "",
+            "rwk_button": "Purgedltd@gmail.com",
+            "rwk_link": "shopify:\/\/pages\/contact-1"
           }
         },
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-1": {
