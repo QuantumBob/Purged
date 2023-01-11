@@ -228,7 +228,7 @@
           "settings": {
             "heading": "Contact",
             "icon": "chat_bubble",
-            "row_content": "<p>You can get in touch with our customer service <a href=\"\/policies\/contact-information\" title=\"Contact Information\">here<\/a><\/p>",
+            "row_content": "<p>You can get in touch with our customer service <a href=\"\/pages\/contact-1\" title=\"Contact\">here<\/a><\/p>",
             "page": "contact-1",
             "liquid": "",
             "rwk_button": "contact@purgedltd.co.uk",
