@@ -278,10 +278,10 @@
             "heading": "Returns",
             "icon": "box",
             "row_content": "",
-            "page": "returns-policy",
+            "page": "",
             "liquid": "",
-            "rwk_button": "Please read through our Returns policy",
-            "rwk_link": "shopify:\/\/pages\/returns-policy"
+            "rwk_button": "",
+            "rwk_link": ""
           }
         }
       },
