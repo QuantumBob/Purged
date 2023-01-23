@@ -107,7 +107,7 @@
     "accent_icons": "text",
     "social_twitter_link": "",
     "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=100088991067466",
-    "social_pinterest_link": "",
+    "social_pinterest_link": "https:\/\/www.pinterest.co.uk\/purgedltd\/",
     "social_instagram_link": "https:\/\/instagram.com\/purgedltd?igshid=YmMyMTA2M2Y=",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
@@ -124,6 +124,32 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "529ca753-f7b1-4b10-8def-88c652ef53e9": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Spend £50 or more, and get free delivery!",
+              "text_alignment": "center",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
+          "a1631e82-0efc-46e5-a14c-e778dd151ea9": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Welcome to our store",
+              "text_alignment": "center",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "529ca753-f7b1-4b10-8def-88c652ef53e9",
+          "a1631e82-0efc-46e5-a14c-e778dd151ea9"
+        ],
         "settings": {
         }
       },
