@@ -1,5 +1,50 @@
 {
   "sections": {
+    "image-with-text-2": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "New To Store",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>New To Store, We Have A New Collection Of Crop Tops And Dresses. Please Check Size Guides Shown.<\/p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button",
+        "text"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_1.gif",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3": {
       "type": "featured-product",
       "blocks": {
@@ -110,53 +155,6 @@
         "padding_bottom": 20
       }
     },
-    "image-with-text-2": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Featured Products",
-            "heading_size": "h0"
-          }
-        },
-        "text": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP ALL",
-            "button_link": "shopify:\/\/collections\/all"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/long-curly-hair-and-dark-lipstick.jpg",
-        "height": "adapt",
-        "desktop_image_width": "large",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -201,11 +199,21 @@
             "text": "<p>Pair text with an image to share an exciting update or a testimonial.<\/p>",
             "text_style": "body"
           }
+        },
+        "5f3b196d-ddee-4246-9ee2-21cc8a5fe4fc": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "5f3b196d-ddee-4246-9ee2-21cc8a5fe4fc"
       ],
       "settings": {
         "height": "adapt",
@@ -343,9 +351,9 @@
     }
   },
   "order": [
+    "image-with-text-2",
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3",
     "image-with-text",
-    "image-with-text-2",
     "featured_collection",
     "image-with-text-1",
     "6300daf5-d930-4e0e-97c7-38b955d66261",
