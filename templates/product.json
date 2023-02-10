@@ -77,8 +77,51 @@
         "padding_bottom": 12
       }
     },
+    "c026f7f6-54a6-4213-ba97-8643539adeb1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17421924434237__c026f7f6-54a6-4213-ba97-8643539adeb1-1676033421e2491cf2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--17421924434237__c026f7f6-54a6-4213-ba97-8643539adeb1-1676033421e2491cf2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All orders are processed within 3-7 business days.<\/p><p>Please allow additional days in transit for delivery. If there is<br\/> a significant time in delay of your delivery, we will contact you via <br\/>email.<\/p>"
+          }
+        },
+        "22de9830-2f6d-43cd-8fb6-8360fd1f08eb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shipping Policy",
+            "button_link": "shopify:\/\/policies\/shipping-policy",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924434237__c026f7f6-54a6-4213-ba97-8643539adeb1-1676033421e2491cf2-0",
+        "template--17421924434237__c026f7f6-54a6-4213-ba97-8643539adeb1-1676033421e2491cf2-1",
+        "22de9830-2f6d-43cd-8fb6-8360fd1f08eb"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "collapsible-content": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "row-1": {
           "type": "collapsible_row",
@@ -173,6 +216,7 @@
   },
   "order": [
     "main",
+    "c026f7f6-54a6-4213-ba97-8643539adeb1",
     "collapsible-content",
     "product-recommendations",
     "newsletter"
