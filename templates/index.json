@@ -51,8 +51,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/stock.png",
-        "image_overlay_opacity": 10,
-        "image_height": "small",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
