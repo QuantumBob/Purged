@@ -30,14 +30,14 @@
         "template--17421924794685__be38aa71-8c5f-4a29-b2d4-558bbb80d677-1676035668716e8c5c-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "black-velvet-off-the-shoulder",
             "second_image": false
           }
         },
         "template--17421924794685__be38aa71-8c5f-4a29-b2d4-558bbb80d677-1676035668716e8c5c-2": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "new-to-store"
           }
         }
       },
