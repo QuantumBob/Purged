@@ -20,6 +20,7 @@
       "blocks": {
         "template--17421924794685__be38aa71-8c5f-4a29-b2d4-558bbb80d677-1676035668716e8c5c-0": {
           "type": "video",
+          "disabled": true,
           "settings": {
             "cover_image": "shopify:\/\/shop_images\/stock.png",
             "video_url": "https:\/\/youtube.com\/watch?v=kRVN9lSp72k",
@@ -47,7 +48,7 @@
         "template--17421924794685__be38aa71-8c5f-4a29-b2d4-558bbb80d677-1676035668716e8c5c-2"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "New To Store",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
