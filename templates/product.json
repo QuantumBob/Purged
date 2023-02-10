@@ -92,11 +92,10 @@
         },
         "row-3": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
             "heading": "SHIPPING",
             "icon": "truck",
-            "row_content": "<p>List the details of your shipping policy.<\/p>",
+            "row_content": "<p>All <br\/>orders are processed within 3-7 business days. We do not deliver or ship<br\/> on weekends and holidays. If your items are delayed, this could be due <br\/>to high volume of orders, we will do our best to rectify this <br\/>issue. Please allow additional days in transit for delivery. If there is<br\/> a significant time in delay of your delivery, we will contact you via <br\/>email.<\/p>",
             "page": ""
           }
         }
