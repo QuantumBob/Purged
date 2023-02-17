@@ -270,7 +270,23 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "16766348490298614197": {
+        "type": "shopify:\/\/apps\/stop-war-banner\/blocks\/multiAnnouncementBar\/3421d53e-fb02-449c-a9ef-daf28f28450a",
+        "disabled": true,
+        "settings": {
+          "font": "alegreya_n4",
+          "position": "header",
+          "checkbox_stick": true,
+          "checkbox_close": false,
+          "select_show_bar": "0_msec",
+          "horizontal_space": 17,
+          "vertical_space": 18,
+          "switch_delay_time": 5
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
