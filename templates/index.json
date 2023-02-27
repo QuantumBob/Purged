@@ -452,11 +452,11 @@
           "settings": {
             "heading": "News",
             "icon": "chat_bubble",
-            "row_content": "<p>Our Blog<\/p>",
+            "row_content": "",
             "page": "",
             "liquid": "",
-            "rwk_button": "",
-            "rwk_link": "shopify:\/\/blogs\/news"
+            "rwk_button": "Our Blog",
+            "rwk_link": ""
           }
         }
       },
