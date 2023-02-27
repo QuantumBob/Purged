@@ -390,7 +390,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Contact",
-            "icon": "chat_bubble",
+            "icon": "silhouette",
             "row_content": "<p>You can get in touch with our customer service <a href=\"\/pages\/contact-1\" title=\"Contact\">here<\/a><\/p>",
             "page": "contact-1",
             "liquid": "",
@@ -446,6 +446,18 @@
             "rwk_button": "",
             "rwk_link": ""
           }
+        },
+        "57e03808-1d65-4364-96ff-d68e92b20ccb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "News",
+            "icon": "chat_bubble",
+            "row_content": "<p>Our Blog<\/p>",
+            "page": "",
+            "liquid": "",
+            "rwk_button": "",
+            "rwk_link": "shopify:\/\/blogs\/news"
+          }
         }
       },
       "block_order": [
@@ -453,7 +465,8 @@
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-1",
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-2",
         "template--17109104361789__6300daf5-d930-4e0e-97c7-38b955d66261-167267227669ee13bf-3",
-        "7feb275e-134e-4a83-87d8-02c29998c554"
+        "7feb275e-134e-4a83-87d8-02c29998c554",
+        "57e03808-1d65-4364-96ff-d68e92b20ccb"
       ],
       "settings": {
         "caption": "",
