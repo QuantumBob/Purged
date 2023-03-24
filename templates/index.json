@@ -554,35 +554,19 @@
     },
     "a631962d-9dfa-40c6-9414-82b348b910f4": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-0": {
           "type": "video",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/stock.png",
-            "video_url": "https:\/\/youtube.com\/watch?v=kRVN9lSp72k",
+            "cover_image": "shopify:\/\/shop_images\/Circle_Round_Minimal_Initials_Photography_Logo_Video.gif",
+            "video_url": "",
             "description": "Recently added to store, please check size guides.",
             "image_padding": false
-          }
-        },
-        "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-2": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
           }
         }
       },
       "block_order": [
-        "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-0",
-        "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-1",
-        "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-2"
+        "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-0"
       ],
       "settings": {
         "heading": "Multimedia collage",
