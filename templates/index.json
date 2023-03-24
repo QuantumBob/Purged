@@ -268,19 +268,18 @@
     },
     "image-with-text": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "New To Store",
+            "heading": "More From our popular picks",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Just in for the new season. Click on the  image for details or browse our full collection below.<\/p>",
+            "text": "<p>Click on the  image for details or browse our full collection below.<\/p>",
             "text_style": "body"
           }
         },
@@ -298,6 +297,43 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/5.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "2257f3c8-a517-47da-ba69-2a80072a80ed": {
+      "type": "image-with-text",
+      "blocks": {
+        "887a8729-8bde-4eda-b585-d30c257a1d6d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Why not accessorise with our stunning cushions. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "bd61b028-c08c-4d7e-9f76-01ab5aa28f91": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/tartan-dress"
+          }
+        }
+      },
+      "block_order": [
+        "887a8729-8bde-4eda-b585-d30c257a1d6d",
+        "bd61b028-c08c-4d7e-9f76-01ab5aa28f91"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_14aca4a6-aa13-437b-bec0-a205a22355c1.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -569,6 +605,7 @@
     "image-with-text-2",
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3",
     "image-with-text",
+    "2257f3c8-a517-47da-ba69-2a80072a80ed",
     "featured_collection",
     "image-with-text-1",
     "6300daf5-d930-4e0e-97c7-38b955d66261",
