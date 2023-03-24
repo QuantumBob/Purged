@@ -554,6 +554,7 @@
     },
     "a631962d-9dfa-40c6-9414-82b348b910f4": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-0": {
           "type": "video",
