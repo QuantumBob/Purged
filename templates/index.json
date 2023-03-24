@@ -156,51 +156,6 @@
         "padding_bottom": 36
       }
     },
-    "image-with-text-2": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "New To Store",
-            "heading_size": "h0"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/all"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>New To Store, We Have A New Collection Of Crop Tops And Dresses. Please Check Size Guides Shown.<\/p>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "button",
-        "text"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_1.gif",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3": {
       "type": "featured-product",
       "blocks": {
@@ -419,6 +374,50 @@
         "padding_bottom": 0
       }
     },
+    "image-with-text-2": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Keep up to date",
+            "heading_size": "h1"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Our Blog",
+            "button_link": "shopify:\/\/blogs\/news"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Keep up to date with our latest Blogs, and get to know the creators behind Purged.<\/p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button",
+        "text"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/featured_blog.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "6300daf5-d930-4e0e-97c7-38b955d66261": {
       "type": "rwk-collapsible-content",
       "blocks": {
@@ -602,12 +601,12 @@
     "1bad0ad0-15f5-4089-b47e-68b6b54cbe40",
     "eaa80a91-f3a2-4ff2-9d95-ac7985ab1dc8",
     "be38aa71-8c5f-4a29-b2d4-558bbb80d677",
-    "image-with-text-2",
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3",
     "image-with-text",
     "2257f3c8-a517-47da-ba69-2a80072a80ed",
     "featured_collection",
     "image-with-text-1",
+    "image-with-text-2",
     "6300daf5-d930-4e0e-97c7-38b955d66261",
     "newsletter",
     "a631962d-9dfa-40c6-9414-82b348b910f4"
