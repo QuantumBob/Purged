@@ -279,7 +279,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Click on the  image for details or browse our full collection below.<\/p>",
+            "text": "<p>This Lace Body-con dress is perfect for any occasion. Check out our stunning Jewelry to match!<\/p>",
             "text_style": "body"
           }
         },
@@ -287,7 +287,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/products\/tartan-dress"
+            "button_link": "shopify:\/\/products\/black-bodycon-laced-dress"
           }
         }
       },
@@ -302,7 +302,7 @@
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
@@ -316,7 +316,7 @@
         "887a8729-8bde-4eda-b585-d30c257a1d6d": {
           "type": "text",
           "settings": {
-            "text": "<p>Why not accessorise with our stunning cushions. <\/p>",
+            "text": "<p>Why not accessorise with our unique cushions? These bring out the best of any home!<\/p>",
             "text_style": "body"
           }
         },
@@ -324,7 +324,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/products\/tartan-dress"
+            "button_link": "shopify:\/\/products\/ouija-cushion"
           }
         }
       },
@@ -334,9 +334,9 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/1_14aca4a6-aa13-437b-bec0-a205a22355c1.jpg",
-        "height": "small",
+        "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
