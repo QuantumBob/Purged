@@ -333,9 +333,9 @@
         "bd61b028-c08c-4d7e-9f76-01ab5aa28f91"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1_14aca4a6-aa13-437b-bec0-a205a22355c1.jpg",
+        "image": "shopify:\/\/shop_images\/popular.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
