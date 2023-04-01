@@ -277,14 +277,14 @@
         "type": "shopify:\/\/apps\/quick-banner-announcement-bars\/blocks\/multiAnnouncementBar\/3421d53e-fb02-449c-a9ef-daf28f28450a",
         "disabled": false,
         "settings": {
-          "select_show_bar": "0_msec",
-          "switch_delay_time": 5,
+          "font": "alegreya_n4",
           "position": "header",
           "checkbox_stick": true,
           "checkbox_close": false,
+          "select_show_bar": "0_msec",
           "horizontal_space": 17,
           "vertical_space": 18,
-          "font": "alegreya_n4"
+          "switch_delay_time": 5
         }
       }
     }
