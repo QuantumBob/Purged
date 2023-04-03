@@ -71,11 +71,12 @@
           "type": "heading",
           "settings": {
             "heading": "New To Store",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "cc4cd028-c48c-480f-ad8e-079153940b46": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "New selection of Men's t-shirts, long sleeve tops and hoodies",
             "text_style": "body"
@@ -85,7 +86,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/mens-gothic-clothing-new-to-store",
+            "button_link_1": "shopify:\/\/collections\/the-witching-hour",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -99,9 +100,9 @@
         "266abc75-fd30-4555-b931-96fc33c3dca1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ai_773d817b-52a8-4a01-a4ab-b3250af3f6f2.png",
-        "image_overlay_opacity": 20,
-        "image_height": "small",
+        "image": "shopify:\/\/shop_images\/My_project-1_13.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
