@@ -36,7 +36,7 @@
         "266abc75-fd30-4555-b931-96fc33c3dca1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
+            "button_label_1": "",
             "button_link_1": "shopify:\/\/collections\/the-witching-hour",
             "button_style_secondary_1": false,
             "button_label_2": "",
