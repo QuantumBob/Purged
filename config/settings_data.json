@@ -280,7 +280,6 @@
           "select_show_bar": "0_msec",
           "switch_delay_time": 5,
           "position": "header",
-          "checkbox_stick": true,
           "checkbox_close": false,
           "horizontal_space": 17,
           "vertical_space": 18,
