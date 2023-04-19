@@ -283,7 +283,7 @@
           "select_show_bar": "0_msec",
           "horizontal_space": 17,
           "vertical_space": 18,
-          "switch_delay_time": 5
+          "switch_delay_time": 7
         }
       }
     }
