@@ -103,7 +103,7 @@
         "image_2": "shopify:\/\/shop_images\/mens_c3cae326-b3e7-4dae-bcfe-165ff30fb48d.png",
         "image_overlay_opacity": 20,
         "image_height": "small",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "left",
