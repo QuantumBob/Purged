@@ -77,7 +77,7 @@
         "template--17421924794685__1bad0ad0-15f5-4089-b47e-68b6b54cbe40-1676037620f7d06d14-1": {
           "type": "text",
           "settings": {
-            "text": "New selection of women's dresses and crop tops",
+            "text": "New selection of Men's coats, tops and trousers",
             "text_style": "body"
           }
         },
@@ -99,8 +99,8 @@
         "template--17421924794685__1bad0ad0-15f5-4089-b47e-68b6b54cbe40-1676037620f7d06d14-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1_7b27adad-3773-4306-b1dd-c5bdbc2ee169.png",
-        "image_2": "shopify:\/\/shop_images\/1_7b27adad-3773-4306-b1dd-c5bdbc2ee169.png",
+        "image": "shopify:\/\/shop_images\/mens.png",
+        "image_2": "shopify:\/\/shop_images\/mens.png",
         "image_overlay_opacity": 20,
         "image_height": "small",
         "adapt_height_first_image": false,
