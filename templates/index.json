@@ -66,7 +66,6 @@
     },
     "1bad0ad0-15f5-4089-b47e-68b6b54cbe40": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--17421924794685__1bad0ad0-15f5-4089-b47e-68b6b54cbe40-1676037620f7d06d14-0": {
           "type": "heading",
@@ -100,8 +99,8 @@
         "template--17421924794685__1bad0ad0-15f5-4089-b47e-68b6b54cbe40-1676037620f7d06d14-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mens_c3cae326-b3e7-4dae-bcfe-165ff30fb48d.png",
-        "image_2": "shopify:\/\/shop_images\/mens_c3cae326-b3e7-4dae-bcfe-165ff30fb48d.png",
+        "image": "shopify:\/\/shop_images\/mens_97b3815f-3e1a-41ff-aa15-d53dce16829b.png",
+        "image_2": "shopify:\/\/shop_images\/mens_97b3815f-3e1a-41ff-aa15-d53dce16829b.png",
         "image_overlay_opacity": 20,
         "image_height": "small",
         "adapt_height_first_image": false,
