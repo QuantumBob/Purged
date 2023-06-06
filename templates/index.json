@@ -37,9 +37,9 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "",
-            "button_link_1": "shopify:\/\/collections\/the-witching-hour",
+            "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
-            "button_label_2": "Shop Now",
+            "button_label_2": "Coming Soon to Store",
             "button_link_2": "shopify:\/\/collections\/the-witching-hour",
             "button_style_secondary_2": false
           }
@@ -51,7 +51,7 @@
         "266abc75-fd30-4555-b931-96fc33c3dca1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/My_project-1_17.jpg",
+        "image": "shopify:\/\/shop_images\/finished_collage.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
