@@ -235,7 +235,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>This Lace Body-con dress is perfect for any occasion. Check out our stunning Jewelry to match!<\/p>",
+            "text": "<p>Try our hottest new mesh skirt from our Summer Collection. Who said you have to change your style for summer?<\/p>",
             "text_style": "body"
           }
         },
@@ -253,7 +253,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1_fabaac75-1215-4ef1-abb9-77337586995f.webp",
+        "image": "shopify:\/\/shop_images\/final2.webp",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
