@@ -99,9 +99,9 @@
         "template--17421924794685__1bad0ad0-15f5-4089-b47e-68b6b54cbe40-1676037620f7d06d14-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ezgif-5-4322baecd1.webp",
-        "image_2": "shopify:\/\/shop_images\/ezgif-5-4322baecd1.webp",
-        "image_overlay_opacity": 20,
+        "image": "shopify:\/\/shop_images\/ezgif-5-ddee9c0d16.webp",
+        "image_2": "shopify:\/\/shop_images\/ezgif-5-ddee9c0d16.webp",
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
