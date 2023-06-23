@@ -309,7 +309,7 @@
         "description": "<p>Check out our Featured Products.  From gothic clothing to accessories, we have it all...<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "featured-products",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
