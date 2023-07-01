@@ -101,7 +101,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/ezgif-5-ddee9c0d16.webp",
         "image_overlay_opacity": 20,
-        "image_height": "small",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
