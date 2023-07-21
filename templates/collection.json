@@ -91,6 +91,7 @@
       "blocks": {
         "template--17421924729149__afe3c784-cbe2-48b7-bfcd-32c751692405-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "New To Store",
             "heading_size": "h1"
@@ -105,6 +106,7 @@
         },
         "template--17421924729149__afe3c784-cbe2-48b7-bfcd-32c751692405-buttons-1": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Shop Now",
             "button_link_1": "shopify:\/\/collections\/mens",
