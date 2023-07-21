@@ -64,54 +64,6 @@
         "show_text_below": true
       }
     },
-    "1bad0ad0-15f5-4089-b47e-68b6b54cbe40": {
-      "type": "image-banner",
-      "blocks": {
-        "template--17421924794685__1bad0ad0-15f5-4089-b47e-68b6b54cbe40-1676037620f7d06d14-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "New To Store",
-            "heading_size": "h1"
-          }
-        },
-        "template--17421924794685__1bad0ad0-15f5-4089-b47e-68b6b54cbe40-1676037620f7d06d14-1": {
-          "type": "text",
-          "settings": {
-            "text": "New summer collection for men, from jeans to tees, we have it all!",
-            "text_style": "body"
-          }
-        },
-        "template--17421924794685__1bad0ad0-15f5-4089-b47e-68b6b54cbe40-1676037620f7d06d14-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "https:\/\/purgedltd.co.uk\/collections\/mens",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17421924794685__1bad0ad0-15f5-4089-b47e-68b6b54cbe40-1676037620f7d06d14-0",
-        "template--17421924794685__1bad0ad0-15f5-4089-b47e-68b6b54cbe40-1676037620f7d06d14-1",
-        "template--17421924794685__1bad0ad0-15f5-4089-b47e-68b6b54cbe40-1676037620f7d06d14-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ezgif-5-ddee9c0d16.webp",
-        "image_overlay_opacity": 20,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "be38aa71-8c5f-4a29-b2d4-558bbb80d677": {
       "type": "collage",
       "disabled": true,
@@ -584,7 +536,6 @@
   "order": [
     "4b005117-027c-40a9-98a7-6b28501f7ec5",
     "eaa80a91-f3a2-4ff2-9d95-ac7985ab1dc8",
-    "1bad0ad0-15f5-4089-b47e-68b6b54cbe40",
     "be38aa71-8c5f-4a29-b2d4-558bbb80d677",
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3",
     "image-with-text",
