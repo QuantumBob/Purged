@@ -110,7 +110,6 @@
     },
     "35c1be00-0206-4dd0-ab2e-9c9dca967d9d": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--17421924794685__35c1be00-0206-4dd0-ab2e-9c9dca967d9d-heading-1": {
           "type": "heading",
@@ -122,11 +121,11 @@
         "template--17421924794685__35c1be00-0206-4dd0-ab2e-9c9dca967d9d-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Shop Now",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
-            "button_link_2": "",
+            "button_link_2": "shopify:\/\/collections\/50-off-tees",
             "button_style_secondary_2": false
           }
         }
