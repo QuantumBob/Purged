@@ -108,6 +108,42 @@
         "padding_bottom": 36
       }
     },
+    "35c1be00-0206-4dd0-ab2e-9c9dca967d9d": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--17421924794685__35c1be00-0206-4dd0-ab2e-9c9dca967d9d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>50% off on selected men's tees<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17421924794685__35c1be00-0206-4dd0-ab2e-9c9dca967d9d-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924794685__35c1be00-0206-4dd0-ab2e-9c9dca967d9d-heading-1",
+        "template--17421924794685__35c1be00-0206-4dd0-ab2e-9c9dca967d9d-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3": {
       "type": "featured-product",
       "blocks": {
@@ -537,6 +573,7 @@
     "4b005117-027c-40a9-98a7-6b28501f7ec5",
     "eaa80a91-f3a2-4ff2-9d95-ac7985ab1dc8",
     "be38aa71-8c5f-4a29-b2d4-558bbb80d677",
+    "35c1be00-0206-4dd0-ab2e-9c9dca967d9d",
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3",
     "image-with-text",
     "2257f3c8-a517-47da-ba69-2a80072a80ed",
