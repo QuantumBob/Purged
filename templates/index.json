@@ -115,7 +115,7 @@
         "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Now",
+            "button_label": "Summer Collection",
             "button_link": "shopify:\/\/collections\/summer-collection"
           }
         },
