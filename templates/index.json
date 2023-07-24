@@ -20,6 +20,7 @@
       "blocks": {
         "fc3c936b-b993-4f9f-941f-11bbaa4a2715": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h0"
@@ -35,6 +36,7 @@
         },
         "266abc75-fd30-4555-b931-96fc33c3dca1": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "",
             "button_link_1": "shopify:\/\/collections\/summer-collection",
@@ -62,50 +64,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "be38aa71-8c5f-4a29-b2d4-558bbb80d677": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "template--17421924794685__be38aa71-8c5f-4a29-b2d4-558bbb80d677-1676035668716e8c5c-0": {
-          "type": "video",
-          "disabled": true,
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/stock.png",
-            "video_url": "https:\/\/youtube.com\/watch?v=kRVN9lSp72k",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "template--17421924794685__be38aa71-8c5f-4a29-b2d4-558bbb80d677-1676035668716e8c5c-1": {
-          "type": "product",
-          "settings": {
-            "product": "lace-off-the-shoulder-dress",
-            "second_image": false
-          }
-        },
-        "template--17421924794685__be38aa71-8c5f-4a29-b2d4-558bbb80d677-1676035668716e8c5c-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "new-to-store"
-          }
-        }
-      },
-      "block_order": [
-        "template--17421924794685__be38aa71-8c5f-4a29-b2d4-558bbb80d677-1676035668716e8c5c-0",
-        "template--17421924794685__be38aa71-8c5f-4a29-b2d4-558bbb80d677-1676035668716e8c5c-1",
-        "template--17421924794685__be38aa71-8c5f-4a29-b2d4-558bbb80d677-1676035668716e8c5c-2"
-      ],
-      "settings": {
-        "heading": "New To Store",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "35c1be00-0206-4dd0-ab2e-9c9dca967d9d": {
@@ -141,6 +99,52 @@
         "full_width": true,
         "padding_top": 12,
         "padding_bottom": 12
+      }
+    },
+    "a82bcb9a-cabc-4100-8a65-7f2f1c578c78": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/summer-collection"
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-heading-1",
+        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-text-1",
+        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ezgif-1-c17a510044.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "19f8960d-ab7c-4383-b0b8-9fa18ff58732": {
@@ -654,13 +658,84 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "816e8370-aabf-4780-be02-f90cb428facf": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-title-1": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-price-1": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-variant_picker-1": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-quantity_selector-1": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-share-1": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-text-1",
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-title-1",
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-price-1",
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-variant_picker-1",
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-quantity_selector-1",
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-buy_buttons-1",
+        "template--17421924794685__816e8370-aabf-4780-be02-f90cb428facf-share-1"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "4b005117-027c-40a9-98a7-6b28501f7ec5",
     "eaa80a91-f3a2-4ff2-9d95-ac7985ab1dc8",
-    "be38aa71-8c5f-4a29-b2d4-558bbb80d677",
     "35c1be00-0206-4dd0-ab2e-9c9dca967d9d",
+    "a82bcb9a-cabc-4100-8a65-7f2f1c578c78",
     "19f8960d-ab7c-4383-b0b8-9fa18ff58732",
     "8f66599f-b945-4340-83cd-d1edd9317cac",
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3",
@@ -671,6 +746,7 @@
     "6300daf5-d930-4e0e-97c7-38b955d66261",
     "image-with-text-2",
     "newsletter",
-    "a631962d-9dfa-40c6-9414-82b348b910f4"
+    "a631962d-9dfa-40c6-9414-82b348b910f4",
+    "816e8370-aabf-4780-be02-f90cb428facf"
   ]
 }
