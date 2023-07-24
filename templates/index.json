@@ -143,6 +143,94 @@
         "padding_bottom": 52
       }
     },
+    "19f8960d-ab7c-4383-b0b8-9fa18ff58732": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "New To Store...",
+            "heading_size": "h2"
+          }
+        },
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Iridescent Makeup Pouch<\/h1>",
+            "text_style": "body"
+          }
+        },
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "https:\/\/purgedltd.co.uk\/products\/iridescent-makeup-pouch"
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-heading-1",
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-text-1",
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ezgif-5-649290fb79.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8f66599f-b945-4340-83cd-d1edd9317cac": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "New Arrival...",
+            "heading_size": "h2"
+          }
+        },
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Hocus Pocus Mug and Spoon Set<\/h1>",
+            "text_style": "body"
+          }
+        },
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "https:\/\/purgedltd.co.uk\/products\/hocus-pocus-mug-and-spoon-set"
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-heading-1",
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-text-1",
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/4_096ef084-c048-41ac-a34e-c645aa89adb3.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3": {
       "type": "featured-product",
       "blocks": {
@@ -204,8 +292,8 @@
         "media_position": "left",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 28,
-        "padding_bottom": 28
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "image-with-text": {
@@ -248,7 +336,7 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
         "mobile_content_alignment": "left",
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -277,7 +365,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/popular.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
@@ -573,6 +661,8 @@
     "eaa80a91-f3a2-4ff2-9d95-ac7985ab1dc8",
     "be38aa71-8c5f-4a29-b2d4-558bbb80d677",
     "35c1be00-0206-4dd0-ab2e-9c9dca967d9d",
+    "19f8960d-ab7c-4383-b0b8-9fa18ff58732",
+    "8f66599f-b945-4340-83cd-d1edd9317cac",
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3",
     "image-with-text",
     "2257f3c8-a517-47da-ba69-2a80072a80ed",
