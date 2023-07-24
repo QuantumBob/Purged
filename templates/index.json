@@ -115,7 +115,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>50% off on selected men's tees<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "template--17421924794685__35c1be00-0206-4dd0-ab2e-9c9dca967d9d-button-1": {
@@ -137,10 +137,10 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "19f8960d-ab7c-4383-b0b8-9fa18ff58732": {
