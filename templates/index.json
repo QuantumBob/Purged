@@ -139,8 +139,8 @@
         "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "19f8960d-ab7c-4383-b0b8-9fa18ff58732": {
