@@ -115,8 +115,8 @@
         "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Summer Collection",
-            "button_link": "shopify:\/\/collections\/summer-collection"
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/bags"
           }
         },
         "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-text-1": {
@@ -133,9 +133,9 @@
         "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/shopnow.webp",
+        "image": "shopify:\/\/shop_images\/WEBP.webp",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -408,7 +408,6 @@
     },
     "image-with-text-1": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -439,6 +438,7 @@
         "text",
         "5f3b196d-ddee-4246-9ee2-21cc8a5fe4fc"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "desktop_image_width": "large",
@@ -632,7 +632,6 @@
     },
     "a631962d-9dfa-40c6-9414-82b348b910f4": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-0": {
           "type": "video",
@@ -647,6 +646,7 @@
       "block_order": [
         "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-0"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h1",
