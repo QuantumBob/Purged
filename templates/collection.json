@@ -2,7 +2,6 @@
   "sections": {
     "image-banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "e3f35acc-72a0-4814-8dc9-f09d410ea090": {
           "type": "buttons",
@@ -19,6 +18,7 @@
       "block_order": [
         "e3f35acc-72a0-4814-8dc9-f09d410ea090"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/stars-background.webp",
         "image_overlay_opacity": 0,
@@ -86,56 +86,6 @@
         "show_text_below": true
       }
     },
-    "afe3c784-cbe2-48b7-bfcd-32c751692405": {
-      "type": "image-banner",
-      "blocks": {
-        "template--17421924729149__afe3c784-cbe2-48b7-bfcd-32c751692405-heading-1": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "New To Store",
-            "heading_size": "h1"
-          }
-        },
-        "template--17421924729149__afe3c784-cbe2-48b7-bfcd-32c751692405-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "New Summer Collection for men, from jeans to tees we have it all!",
-            "text_style": "body"
-          }
-        },
-        "template--17421924729149__afe3c784-cbe2-48b7-bfcd-32c751692405-buttons-1": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/mens",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17421924729149__afe3c784-cbe2-48b7-bfcd-32c751692405-heading-1",
-        "template--17421924729149__afe3c784-cbe2-48b7-bfcd-32c751692405-text-1",
-        "template--17421924729149__afe3c784-cbe2-48b7-bfcd-32c751692405-buttons-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ezgif-5-ddee9c0d16.webp",
-        "image_overlay_opacity": 10,
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -165,7 +115,6 @@
     },
     "image-with-text": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -203,6 +152,7 @@
         "button",
         "3bc7821b-b23b-4cad-8c13-b3c4088261b1"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "desktop_image_width": "small",
@@ -254,7 +204,6 @@
   "order": [
     "image-banner",
     "af011418-7ea6-4623-ae8c-df68e5a90169",
-    "afe3c784-cbe2-48b7-bfcd-32c751692405",
     "banner",
     "product-grid",
     "image-with-text",
