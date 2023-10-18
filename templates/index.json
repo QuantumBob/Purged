@@ -79,7 +79,7 @@
         "template--17421924794685__35c1be00-0206-4dd0-ab2e-9c9dca967d9d-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Now",
+            "button_label": "SHOP NOW",
             "button_link": "shopify:\/\/collections\/50-off-tees",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -115,7 +115,7 @@
         "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Now",
+            "button_label": "SHOP NOW",
             "button_link": "shopify:\/\/collections\/bags"
           }
         },
@@ -166,7 +166,7 @@
         "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Now",
+            "button_label": "SHOP NOW",
             "button_link": "https:\/\/purgedltd.co.uk\/products\/iridescent-makeup-pouch"
           }
         }
@@ -210,7 +210,7 @@
         "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Now",
+            "button_label": "SHOP NOW",
             "button_link": "https:\/\/purgedltd.co.uk\/products\/hocus-pocus-mug-and-spoon-set"
           }
         }
