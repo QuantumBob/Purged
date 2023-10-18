@@ -312,7 +312,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Try our hottest new mesh skirt from our Summer Collection. Who said you have to change your style for summer?<\/p>",
+            "text": "<h5>Try our hottest new mesh skirt from our Summer Collection. Who said you have to change your style for summer?<\/h5>",
             "text_style": "body"
           }
         },
