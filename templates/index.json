@@ -122,8 +122,8 @@
         "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Free delivery when you spend £50 or more<\/p>",
-            "text_style": "body"
+            "text": "<h4>Free delivery when you spend £50 or more<\/h4>",
+            "text_style": "subtitle"
           }
         }
       },
@@ -349,7 +349,7 @@
         "887a8729-8bde-4eda-b585-d30c257a1d6d": {
           "type": "text",
           "settings": {
-            "text": "<p>Why not accessorize with our unique cushions? These bring out the best of any home! All accessories are delivered within 2-3 business days*<\/p>",
+            "text": "<h5>Why not accessorize with our unique cushions? These bring out the best of any home! All accessories are delivered within 2-3 business days*<\/h5>",
             "text_style": "body"
           }
         },
