@@ -312,7 +312,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<h5>Try our hottest new mesh skirt from our Summer Collection. Who said you have to change your style for summer?<\/h5>",
+            "text": "<h4>Stay warm this Autumn with our witchcraft\/occult cardigan, only £13.99<\/h4>",
             "text_style": "body"
           }
         },
@@ -320,7 +320,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/products\/long-mesh-skirt-with-chain"
+            "button_link": "shopify:\/\/products\/hooded-witchcraft-occult-cardigan"
           }
         }
       },
@@ -330,7 +330,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/final2.webp",
+        "image": "shopify:\/\/shop_images\/3_ef6bc252-747a-4c9b-a6ff-c898eab292f4.webp",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
