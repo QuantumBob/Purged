@@ -53,7 +53,7 @@
         "266abc75-fd30-4555-b931-96fc33c3dca1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/20mb.png",
+        "image": "shopify:\/\/shop_images\/Orange_Black_Happy_Halloween_Holiday_Sales_Banner_2.gif",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
@@ -64,6 +64,164 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "dd872fb3-5495-42d9-bdd2-f4c6b2c3d978": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17421924794685__dd872fb3-5495-42d9-bdd2-f4c6b2c3d978-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Halloween Collection available now!<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17421924794685__dd872fb3-5495-42d9-bdd2-f4c6b2c3d978-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Check out our new accessories, coats, jackets and more!<\/p>"
+          }
+        },
+        "template--17421924794685__dd872fb3-5495-42d9-bdd2-f4c6b2c3d978-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "GO NOW",
+            "button_link": "shopify:\/\/collections\/halloween-collection",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924794685__dd872fb3-5495-42d9-bdd2-f4c6b2c3d978-heading-1",
+        "template--17421924794685__dd872fb3-5495-42d9-bdd2-f4c6b2c3d978-text-1",
+        "template--17421924794685__dd872fb3-5495-42d9-bdd2-f4c6b2c3d978-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "97651904-d6d1-4a47-9a0f-3e1fe35baa6e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17421924794685__97651904-d6d1-4a47-9a0f-3e1fe35baa6e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Selection of Wednesday Addam's Dresses, huge range of sizes available, out now!",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924794685__97651904-d6d1-4a47-9a0f-3e1fe35baa6e-heading-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_e147bac0-5a70-4092-853c-17ee96b3365f.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "19f8960d-ab7c-4383-b0b8-9fa18ff58732": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Bat Stemless Wine Glass<br\/><\/h1>",
+            "text_style": "body"
+          }
+        },
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "£12.99",
+            "heading_size": "h2"
+          }
+        },
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/bat-stemless-wine-glass"
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-text-1",
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-heading-1",
+        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/unnamed_02a15429-fdfe-4bc8-81cf-f47f27e89f3c.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "8f66599f-b945-4340-83cd-d1edd9317cac": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Witch Craft Jacket<\/h1>",
+            "text_style": "body"
+          }
+        },
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "£22.99",
+            "heading_size": "h2"
+          }
+        },
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/witch-craft-jacket"
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-text-1",
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-heading-1",
+        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_60c67193-d2af-4d19-8d1c-9056d7501c73.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "35c1be00-0206-4dd0-ab2e-9c9dca967d9d": {
@@ -99,139 +257,6 @@
         "full_width": true,
         "padding_top": 12,
         "padding_bottom": 12
-      }
-    },
-    "a82bcb9a-cabc-4100-8a65-7f2f1c578c78": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-heading-1": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/bags"
-          }
-        },
-        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>Free delivery when you spend £50 or more<\/h4>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-heading-1",
-        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-button-1",
-        "template--17421924794685__a82bcb9a-cabc-4100-8a65-7f2f1c578c78-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/WEBP.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "19f8960d-ab7c-4383-b0b8-9fa18ff58732": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h1>Iridescent Makeup Pouch<br\/><\/h1>",
-            "text_style": "body"
-          }
-        },
-        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "£11.99",
-            "heading_size": "h2"
-          }
-        },
-        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "https:\/\/purgedltd.co.uk\/products\/iridescent-makeup-pouch"
-          }
-        }
-      },
-      "block_order": [
-        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-text-1",
-        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-heading-1",
-        "template--17421924794685__19f8960d-ab7c-4383-b0b8-9fa18ff58732-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ezgif-5-649290fb79.webp",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "8f66599f-b945-4340-83cd-d1edd9317cac": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h1>Hocus Pocus Mug and Spoon Set<\/h1>",
-            "text_style": "body"
-          }
-        },
-        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "£10.99",
-            "heading_size": "h2"
-          }
-        },
-        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "https:\/\/purgedltd.co.uk\/products\/hocus-pocus-mug-and-spoon-set"
-          }
-        }
-      },
-      "block_order": [
-        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-text-1",
-        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-heading-1",
-        "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/4_096ef084-c048-41ac-a34e-c645aa89adb3.webp",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 8,
-        "padding_bottom": 8
       }
     },
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3": {
@@ -632,20 +657,6 @@
     },
     "a631962d-9dfa-40c6-9414-82b348b910f4": {
       "type": "collage",
-      "blocks": {
-        "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/Circle_Round_Minimal_Initials_Photography_Logo_Video.gif",
-            "video_url": "",
-            "description": "Recently added to store, please check size guides.",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17421924794685__a631962d-9dfa-40c6-9414-82b348b910f4-1676035668716e8c5c-0"
-      ],
       "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
@@ -662,10 +673,11 @@
   "order": [
     "4b005117-027c-40a9-98a7-6b28501f7ec5",
     "eaa80a91-f3a2-4ff2-9d95-ac7985ab1dc8",
-    "35c1be00-0206-4dd0-ab2e-9c9dca967d9d",
-    "a82bcb9a-cabc-4100-8a65-7f2f1c578c78",
+    "dd872fb3-5495-42d9-bdd2-f4c6b2c3d978",
+    "97651904-d6d1-4a47-9a0f-3e1fe35baa6e",
     "19f8960d-ab7c-4383-b0b8-9fa18ff58732",
     "8f66599f-b945-4340-83cd-d1edd9317cac",
+    "35c1be00-0206-4dd0-ab2e-9c9dca967d9d",
     "db64dcd4-6f7e-4778-b63c-ffd142f9dbe3",
     "image-with-text",
     "2257f3c8-a517-47da-ba69-2a80072a80ed",
