@@ -117,10 +117,18 @@
             "heading": "Selection of Wednesday Addam's Dresses, huge range of sizes available, out now!",
             "heading_size": "h2"
           }
+        },
+        "a0ac1df5-9151-43e1-9fa7-c8da8d4f40a6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Check our shipping policy for delivery times <\/p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
-        "template--17421924794685__97651904-d6d1-4a47-9a0f-3e1fe35baa6e-heading-1"
+        "template--17421924794685__97651904-d6d1-4a47-9a0f-3e1fe35baa6e-heading-1",
+        "a0ac1df5-9151-43e1-9fa7-c8da8d4f40a6"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/1_e147bac0-5a70-4092-853c-17ee96b3365f.webp",
