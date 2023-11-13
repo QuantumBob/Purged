@@ -615,6 +615,7 @@
         "button",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/My_project-1_18.jpg",
         "height": "adapt",
