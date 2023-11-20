@@ -72,7 +72,7 @@
         "template--17421924794685__dd872fb3-5495-42d9-bdd2-f4c6b2c3d978-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Halloween Collection available now!<\/p>",
+            "heading": "<p>New to Store<\/p>",
             "heading_size": "h1"
           }
         },
@@ -130,6 +130,7 @@
         "template--17421924794685__97651904-d6d1-4a47-9a0f-3e1fe35baa6e-heading-1",
         "a0ac1df5-9151-43e1-9fa7-c8da8d4f40a6"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/1_e147bac0-5a70-4092-853c-17ee96b3365f.webp",
         "height": "small",
