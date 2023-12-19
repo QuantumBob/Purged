@@ -31,6 +31,13 @@
             "picker_type": "button"
           }
         },
+        "a57e4610-cad3-48f6-bc6c-20f8815a9248": {
+          "type": "text",
+          "settings": {
+            "text": "Please note shipping times will vary during the holiday season.",
+            "text_style": "body"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -60,6 +67,7 @@
         "product-rating",
         "price",
         "variant_picker",
+        "a57e4610-cad3-48f6-bc6c-20f8815a9248",
         "quantity_selector",
         "buy_buttons",
         "description",
