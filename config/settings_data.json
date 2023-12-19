@@ -125,6 +125,10 @@
     "checkout_logo_position": "left",
     "checkout_logo_size": "large",
     "checkout_body_background_image": "shopify:\/\/shop_images\/FC5991B8-75A8-4725-A8DD-525D32B6B6F0.jpg",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#391f56",
+    "checkout_heading_font": "Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman'",
+    "checkout_body_font": "PT Serif",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
