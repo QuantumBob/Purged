@@ -124,11 +124,11 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/purged-square-logo.webp",
     "checkout_logo_position": "right",
     "checkout_logo_size": "large",
-    "checkout_body_background_image": "shopify:\/\/shop_images\/FC5991B8-75A8-4725-A8DD-525D32B6B6F0.jpg",
     "checkout_input_background_color_mode": "white",
     "checkout_sidebar_background_color": "#ffffff",
-    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_heading_font": "Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman'",
     "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#ffffff",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
