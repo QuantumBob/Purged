@@ -121,8 +121,10 @@
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": false,
-    "checkout_header_image": "shopify:\/\/shop_images\/22436FD2-3EA7-4A94-B78D-9EA0000B9C9E.jpg",
     "checkout_logo_image": "shopify:\/\/shop_images\/purged-square-logo.webp",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "large",
+    "checkout_body_background_image": "shopify:\/\/shop_images\/FC5991B8-75A8-4725-A8DD-525D32B6B6F0.jpg",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
