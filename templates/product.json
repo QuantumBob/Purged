@@ -25,6 +25,13 @@
           "settings": {
           }
         },
+        "4135183d-399e-4767-8135-286e56eaf60b": {
+          "type": "text",
+          "settings": {
+            "text": "Please note shipping times will vary during the holiday season.",
+            "text_style": "body"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -59,6 +66,7 @@
         "title",
         "product-rating",
         "price",
+        "4135183d-399e-4767-8135-286e56eaf60b",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -121,7 +129,6 @@
     },
     "collapsible-content": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "row-1": {
           "type": "collapsible_row",
@@ -147,6 +154,7 @@
         "row-1",
         "row-3"
       ],
+      "disabled": true,
       "settings": {
         "caption": "",
         "heading": "",
