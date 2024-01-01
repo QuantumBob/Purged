@@ -15,6 +15,60 @@
         "padding_bottom": 76
       }
     },
+    "703bc5cb-85a4-4f84-8a4b-084b758aca69": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17421924794685__703bc5cb-85a4-4f84-8a4b-084b758aca69-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dark_Purple_Modern_Gaming_Banner_Landscape_1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17421924794685__703bc5cb-85a4-4f84-8a4b-084b758aca69-slide-2": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17421924794685__703bc5cb-85a4-4f84-8a4b-084b758aca69-slide-1",
+        "template--17421924794685__703bc5cb-85a4-4f84-8a4b-084b758aca69-slide-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "eaa80a91-f3a2-4ff2-9d95-ac7985ab1dc8": {
       "type": "image-banner",
       "blocks": {
@@ -53,9 +107,9 @@
         "266abc75-fd30-4555-b931-96fc33c3dca1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/New_Winter_Collection.gif",
+        "image": "shopify:\/\/shop_images\/Black_Gray_and_Purple_Collage_Maximalist_Young_Adults_Birthday_Banner_1.gif",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -79,7 +133,7 @@
         "template--17421924794685__dd872fb3-5495-42d9-bdd2-f4c6b2c3d978-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Check out our new accessories, coats, jackets and more!<\/p>"
+            "text": "<p>Check out our new coats, jumpers, jackets and more!<\/p>"
           }
         },
         "template--17421924794685__dd872fb3-5495-42d9-bdd2-f4c6b2c3d978-button-1": {
@@ -682,6 +736,7 @@
   },
   "order": [
     "4b005117-027c-40a9-98a7-6b28501f7ec5",
+    "703bc5cb-85a4-4f84-8a4b-084b758aca69",
     "eaa80a91-f3a2-4ff2-9d95-ac7985ab1dc8",
     "dd872fb3-5495-42d9-bdd2-f4c6b2c3d978",
     "97651904-d6d1-4a47-9a0f-3e1fe35baa6e",
