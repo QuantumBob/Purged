@@ -249,14 +249,14 @@
         "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h1>Witch Craft Jacket<\/h1>",
+            "text": "<h1>Spikey Leather Jacket<\/h1>",
             "text_style": "body"
           }
         },
         "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "£22.99",
+            "heading": "£53.99",
             "heading_size": "h2"
           }
         },
@@ -264,7 +264,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/products\/witch-craft-jacket"
+            "button_link": "shopify:\/\/products\/spikey-leather-jacket"
           }
         }
       },
@@ -274,7 +274,7 @@
         "template--17421924794685__8f66599f-b945-4340-83cd-d1edd9317cac-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1_60c67193-d2af-4d19-8d1c-9056d7501c73.webp",
+        "image": "shopify:\/\/shop_images\/H28f9e25af36c45cab78f56df5bf69c38e.jpeg_720x720q50_e6cfdde1-603d-43ab-a59d-bb4ddde40372.webp",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
